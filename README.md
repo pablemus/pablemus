@@ -44,9 +44,9 @@ Backend developer and data analyst focused on building efficient server-side sys
 
 ## 📬 Contacts
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pablemus)  
-[![Discord](https://img.shields.io/badge/-Discord-5865F2?style=flat&logo=discord&logoColor=white)](https://discord.gg/616unholy)  
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:pablemus@proton.me)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pablemus)  pablemus
+[![Discord](https://img.shields.io/badge/-Discord-5865F2?style=flat&logo=discord&logoColor=white)](https://discord.gg/616unholy)  616unholy
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:pablemus@proton.me) pablemus@proton.me
 
 I'm open to freelance, contract, and remote job opportunities.  
 Reach out to collaborate or discuss a project.
