@@ -40,7 +40,6 @@ Backend developer and data analyst focused on building efficient server-side sys
 
 ---
 
-## 📬 Contacts
 
 ## 📬 Contacts
 
