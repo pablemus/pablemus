@@ -1,6 +1,6 @@
 Hi, I'm Pablo Lemus.
 
-Backend developer and data analyst focused on building efficient server-side systems and data-driven solutions.
+Fullstack developer focused on building efficient server-side systems and data-driven solutions.
 
 🇬🇹 Based in Guatemala  
 💻 Combining modern JavaScript backend with analytical problem-solving.
