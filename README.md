@@ -44,7 +44,7 @@ Fullstack developer focused on building modern, scalable, and efficient web appl
 
 ## 📬 Contact
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-pablemus-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pablemus)  
+
 [![Discord](https://img.shields.io/badge/Discord-616unholy-5865F2?style=flat&logo=discord&logoColor=white)](https://discord.gg/616unholy)  
 [![Email](https://img.shields.io/badge/Email-pablemus@proton.me-D14836?style=flat&logo=gmail&logoColor=white)](mailto:pablemus@proton.me)
 
